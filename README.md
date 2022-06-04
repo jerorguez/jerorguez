@@ -1,16 +1,20 @@
-### Hi there 👋
+![https://github.com/mouredev](https://raw.githubusercontent.com/jerorguez/jerorguez/master/jerorguez_banner.png)
 
-<!--
-**jerorguez/jerorguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="justify">
+I am Jerobel Rodriguez, throughout my life I have focused my studies to become a doctor / dentist. 
+It is not until the year 2021 where I discover my true vocation for software development. 
+I am currently studying to become a web application developer.
+
+I am very interested in backend, cybersecurity and artificial intelligence.
+</p>
+
+### Skills:
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,py,mysql&theme=light)](https://skills.thijs.gg)
+
+### Tools:
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,vim,git&theme=light)](https://skills.thijs.gg)
+
+<h6 align="center">Building software from The Canary Islands 🇮🇨 to the world</h6>
