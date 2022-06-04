@@ -4,8 +4,8 @@
 
 
 <p align="justify">
-I am Jerobel Rodriguez, throughout my life I have focused my studies to become a doctor / dentist. 
-It is not until the year 2021 where I discover my true vocation for software development. 
+I am Jerobel Rodriguez, throughout my life I have focused my studies to be a doctor/dentist. 
+It is not until the year 2021 where I discovered my true vocation for software development. 
 I am currently studying to become a web application developer.
 
 I am very interested in backend, cybersecurity and artificial intelligence.
